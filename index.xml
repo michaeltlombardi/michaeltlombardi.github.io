@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BarbarianKB</title>
+    <link>http://michaeltlombardi.github.io/</link>
+    <description>Recent content on BarbarianKB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2016. All rights reserved.</copyright>
+    <lastBuildDate>Tue, 23 Aug 2016 19:36:21 -0500</lastBuildDate>
+    <atom:link href="http://michaeltlombardi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>000 Example</title>
+      <link>http://michaeltlombardi.github.io/kb/000-example/</link>
+      <pubDate>Tue, 23 Aug 2016 19:36:21 -0500</pubDate>
+      
+      <guid>http://michaeltlombardi.github.io/kb/000-example/</guid>
+      <description>&lt;p&gt;This is an example article.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://michaeltlombardi.github.io/about/</link>
+      <pubDate>Tue, 23 Aug 2016 19:19:32 -0500</pubDate>
+      
+      <guid>http://michaeltlombardi.github.io/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;about:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;About&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; You can skip all of this and just go to my latest blog by clicking &amp;ldquo;Barbarian KB&amp;rdquo; in the top left corner.&lt;/p&gt;
+
+&lt;h2 id=&#34;about-me:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;About Me&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;m using powershell like a battleaxe - just trying to learn faster and attack problems smarter.&lt;/p&gt;
+
+&lt;p&gt;I got lucky and after a short internship landed a job as a sysadmin, effectively bypassing my dues at a help desk.
+I was content to get paid and coast along, but it turns out I&amp;rsquo;m inherently lazy; I &lt;strong&gt;hate&lt;/strong&gt; performing the same task more than twice if I can help it.
+So I picked up PowerShell and tried to work less.&lt;/p&gt;
+
+&lt;p&gt;This site is just a place for me to keep KB articles I write for future-Mike (he&amp;rsquo;s &lt;em&gt;very&lt;/em&gt; forgetful) and my thoughts on topics far and wide.
+I&amp;rsquo;ll try to tag them properly so you know if you&amp;rsquo;re about to waste your time on me pontificating about worldbuilding or actually going to learn something useful.&lt;/p&gt;
+
+&lt;p&gt;Good general rules for pages here:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;If it&amp;rsquo;s in a KB, it&amp;rsquo;s for education.&lt;/li&gt;
+&lt;li&gt;If it&amp;rsquo;s in a blog, it&amp;rsquo;s for entertainment/discussion.&lt;/li&gt;
+&lt;li&gt;If it&amp;rsquo;s this about page, you can ignore it. :)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;about-the-theme:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;About the Theme&lt;/h2&gt;
+
+&lt;p&gt;This static site was rendered using the fantastic &lt;a href=&#34;http://themes.gohugo.io/blackburn/&#34;&gt;Blackburn&lt;/a&gt; theme by &lt;a href=&#34;http://yoshiharuyamashita.com/&#34;&gt;Yoshiharu Yamashita&lt;/a&gt;.
+Any issues or problems you notice are assuredly caused by me tweaking it for personal use.&lt;/p&gt;
+
+&lt;h2 id=&#34;on-mistakes-corrections-and-requests:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;On Mistakes, Corrections, and Requests&lt;/h2&gt;
+
+&lt;p&gt;Please &lt;a href=&#34;https://github.com/michaeltlombardi/barbariankb/issues/new&#34;&gt;file an issue&lt;/a&gt; if you:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;notice any mistakes I&amp;rsquo;ve made&lt;/li&gt;
+&lt;li&gt;wish I&amp;rsquo;d update a blog or KB with the latest/greatest info&lt;/li&gt;
+&lt;li&gt;think my grammar could use some work&lt;/li&gt;
+&lt;li&gt;have a particular topic you&amp;rsquo;d like me to write about&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I prefer, when possible, to keep my laundry aired and my mistakes visible - it helps me to strive not to repeat those mistakes and helps to remind me when I&amp;rsquo;ve made progress.
+Basically, I find transparency to be a good habit.
+Of course, you can always comment directly on any blog post.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hello, World!</title>
+      <link>http://michaeltlombardi.github.io/post/hello-world/</link>
+      <pubDate>Tue, 23 Aug 2016 19:02:39 -0500</pubDate>
+      
+      <guid>http://michaeltlombardi.github.io/post/hello-world/</guid>
+      <description>&lt;dl&gt;
+&lt;dt&gt;I finally bought a domain name.&lt;/dt&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;:D&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
