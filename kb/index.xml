@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kbs on BarbarianKB</title>
-    <link>http://michaeltlombardi.github.io/kb/</link>
+    <link>https://michaeltlombardi.github.io/kb/</link>
     <description>Recent content in Kbs on BarbarianKB</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2016. All rights reserved.</copyright>
     <lastBuildDate>Tue, 23 Aug 2016 19:36:21 -0500</lastBuildDate>
-    <atom:link href="http://michaeltlombardi.github.io/kb/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://michaeltlombardi.github.io/kb/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>000 Example</title>
-      <link>http://michaeltlombardi.github.io/kb/000-example/</link>
+      <link>https://michaeltlombardi.github.io/kb/000-example/</link>
       <pubDate>Tue, 23 Aug 2016 19:36:21 -0500</pubDate>
       
-      <guid>http://michaeltlombardi.github.io/kb/000-example/</guid>
+      <guid>https://michaeltlombardi.github.io/kb/000-example/</guid>
       <description>&lt;p&gt;This is an example article.&lt;/p&gt;
 </description>
     </item>
